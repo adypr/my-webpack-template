@@ -1,0 +1,19 @@
+{
+  "name": "webpacktemplate",
+  "version": "1.0.0",
+  "description": "My webpack template",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adypr/my-webpack-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adypr/my-webpack-template/issues"
+  },
+  "homepage": "https://github.com/adypr/my-webpack-template#readme"
+}
